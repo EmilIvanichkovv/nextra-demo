@@ -1,0 +1,18 @@
+{
+  "getting-started": {
+  "title": "Getting Started",
+  "href": "/docs/getting-started"
+},
+"api": {
+  "title": "API Reference",
+  "href": "/docs/api"
+},
+"smart-contracts": {
+  "title": "Smart Contracts",
+  "href": "/docs/smart-contracts"
+},
+"examples": {
+  "title": "Examples",
+  "href": "/docs/examples"
+}
+}

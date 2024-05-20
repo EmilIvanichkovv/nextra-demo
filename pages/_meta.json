@@ -1,0 +1,43 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "href": "/"
+  },
+
+  "docs": {
+    "title": "Documentation",
+    "type": "menu",
+    "items": {
+      "getting-started": {
+        "title": "Getting Started",
+        "href": "/docs/getting-started"
+      },
+      "api": {
+        "title": "API Reference",
+        "href": "/docs/api"
+      },
+      "smart-contracts": {
+        "title": "Smart Contracts"
+      },
+      "examples": {
+        "title": "Examples",
+        "href": "/docs/examples"
+      }
+    }
+  },
+  "company": {
+    "title": "Company",
+    "type": "page",
+    "items": {
+      "about": {
+        "title": "About",
+        "href": "/company/about"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "href": "/company/contact"
+      }
+    }
+  }
+}
