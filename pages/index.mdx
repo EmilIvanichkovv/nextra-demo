@@ -34,3 +34,20 @@ Here is a quick example:
 npm install my-project
 cd my-project
 npm start
+```
+
+## Hello MDX
+
+import { useState } from 'react'
+
+export function Counter({ children }) {
+  const [count, setCount] = useState(0)
+  return (
+    <button onClick={() => setCount(count + 1)}>
+      {children}
+      {count}
+    </button>
+  )
+}
+
+<Counter>**Clicks**: </Counter>

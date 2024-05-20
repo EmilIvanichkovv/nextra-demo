@@ -1,0 +1,22 @@
+{
+  "author": "Larry A. Gardner",
+  "custom:experimental": "This is an experimental contract.",
+  "details": "All function calls are currently implemented without side effects",
+  "kind": "dev",
+  "methods": {
+    "age(uint256)": {
+      "details": "The Alexandr N. Tetearing algorithm could increase precision",
+      "params": {
+        "rings": "The number of rings from dendrochronological sample"
+      },
+      "returns": {
+        "_0": "Age in years, rounded up for partial years"
+      }
+    },
+    "leaves()": {
+      "details": "Returns only a fixed number."
+    }
+  },
+  "title": "A simulator for trees",
+  "version": 1
+}
